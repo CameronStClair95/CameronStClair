@@ -44,4 +44,4 @@ I am a
 - Node.JS
 - TypeScript (Beginner)
 
-[Check out my portfolio] (https://camstclair.netlify.app/)
+🔗 [Portfolio - Cameron Labarr](https://camstclair.netlify.app/)
