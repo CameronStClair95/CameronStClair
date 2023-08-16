@@ -3,7 +3,9 @@
 I am a
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full-stack+Developer)](https://git.io/typing-svg)
+<br/>
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Front-end+Developer)](https://git.io/typing-svg)
+<br/>
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=UX/UI+Designer)](https://git.io/typing-svg)
 
 📍 London, United Kingdom
@@ -41,3 +43,5 @@ I am a
 - Express
 - Node.JS
 - TypeScript (Beginner)
+
+[Check out my portfolio] (https://camstclair.netlify.app/)
