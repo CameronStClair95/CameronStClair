@@ -2,7 +2,7 @@
 
 I am a
 
-![Typing SVG](./typing.svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full-stack+Developer,+Front-end+Developer,+UX/UI+Designer)](https://git.io/typing-svg)
 
 📍 London, United Kingdom
 ✉️ cameronaitcheson@gmail.com
