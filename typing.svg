@@ -1,0 +1,8 @@
+<svg width="800" height="60" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <style>
+        .text { font: 24px sans-serif; fill: black; animation-duration: 7s; animation-name: type; animation-timing-function: steps(30, end); overflow: hidden; white-space: nowrap; }
+        @keyframes type { from { width: 0; } }
+    </style>
+    <rect width="100%" height="100%" fill="white"/>
+    <text x="10" y="40" class="text">Full-stack Developer, Front-end Developer, UX/UI Designer</text>
+</svg>
